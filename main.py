@@ -1,1 +1,4 @@
-from langchain.chains import LLMChain\nfrom langchain.prompts import PromptTemplate\nfrom langchain.llms.fake import FakeListLLM
+{
+    "encoding": "utf-8",
+    "content": "print('Hello World')"
+}
