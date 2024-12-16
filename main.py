@@ -1,4 +1,1 @@
-{
-    "encoding": "utf-8",
-    "content": "print('Hello World')"
-}
+{"content": "cHJpbnQoJ0hlbGxvIFdvcmxkJyk=", "encoding": "base64"}
